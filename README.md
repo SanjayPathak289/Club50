@@ -5,8 +5,8 @@ npm install
 # or
 yarn install
 ```
-### Run the Development Server
-Start the app in development mode using Expo:
+### Run the App
+Start the app using Expo:
 ```bash
 npx expo start
 ```
